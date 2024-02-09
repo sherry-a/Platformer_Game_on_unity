@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Water
+  - Moving Platform
+  - Toxic
+  - Turret
+  - Bullet
+  - Enemy
+  - Health
+  - Speed
+  - Jump
+  - Time
+  - AntiGravity
+  - Red Coin
+  - Blue Coin
+  - Score
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - P1
+  - Ground
+  - P2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 346350689
+    locked: 0
+  - name: Players
+    uniqueID: 2337219127
+    locked: 0
+  - name: Canvas
+    uniqueID: 1349560037
+    locked: 0
